@@ -155,6 +155,8 @@ The killer mentioned that the one who hired him has a lot of money, let's find o
 ```sql
 SELECT * FROM income WHERE ssn = 987756388;
 ```
+![image](https://github.com/khushi-sabarad/SQLFunGames/assets/71957748/2f11344b-0ba7-4344-a48b-8b9fd7d57417)
+
 ***
 ### Single query version:
 ```sql

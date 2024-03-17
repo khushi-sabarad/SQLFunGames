@@ -2,7 +2,7 @@
 ## Can you find out whodunnit?🕵️‍♀️
 ![image](https://github.com/khushi-sabarad/SQLFunGames/assets/71957748/5acfdcbc-4da1-47fe-8251-a23d1e2befc3)
 
-There's been a Murder in SQL City! The SQL Murder Mystery is designed to be both a self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.
+There's been a Murder in SQL City! The [SQL Murder Mystery](https://mystery.knightlab.com/) is designed to be both a self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.
 
 ***
 

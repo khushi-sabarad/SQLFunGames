@@ -3,7 +3,6 @@ Solutions to a variety of SQL-based fun learning games! Dive into this repositor
 
 - [SQL Island](https://github.com/khushi-sabarad/SQLFunGames/blob/main/SQL_Island/Readme.md)
 - [SQL Murder Mystery](https://github.com/khushi-sabarad/SQLFunGames/blob/main/SQLMurderMystery/readme.md)
-**Note: This repository is a work in progress. More Fun Games' Solutions will be added over the coming weeks.**
 
 ***
 Let's connect on [LinkedIn!](https://www.linkedin.com/in/khushi-sabarad/)🤝

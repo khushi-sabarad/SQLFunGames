@@ -4,6 +4,7 @@ Solutions to a variety of SQL-based fun learning games! Dive into this repositor
 - [SQL Island](https://github.com/khushi-sabarad/SQLFunGames/blob/main/SQL_Island/Readme.md)
 - [SQL Murder Mystery](https://github.com/khushi-sabarad/SQLFunGames/blob/main/SQLMurderMystery/readme.md)
 - [SQL Police Department](https://sqlpd.com/)
+- [SQL Practice](https://www.sql-practice.com/)
 
 ***
 Let's connect on [LinkedIn!](https://www.linkedin.com/in/khushi-sabarad/)🤝
